@@ -1,0 +1,23 @@
+body {
+  background-color: lightblue;
+}
+
+nav {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: Garamond, serif; 
+  font-size: 150px;
+  color: mediumaquamarine;
+  text-align: center;
+  position: relative;
+}
+
+p {
+  font-family: Garamond, serif;
+  font-size: 16px;
+  color: rgb(151, 182, 192);
+  text-align: justify;
+}
